@@ -1,0 +1,115 @@
+#track{
+position: absolute;
+right:0px;
+  opacity: .19;
+  width: 45vw;
+  height: 100vh;
+
+
+}
+#head{
+position: absolute;
+width: 100vw;
+height: 10vh;
+z-index: 1;
+background-color: #9B9A8C;
+}
+
+#footer{
+position: absolute;
+bottom: 0px;
+  width: 100vw;
+  height: 10vh;
+  z-index: 1;
+  background-color: #9B9A8C;
+}
+ #splash{
+position: absolute;
+top: 50vh;
+left: 14vw;
+   background-color: #353426;
+   border-radius: 5px;
+   width: 250px;
+   height: 50px;
+   z-index: 2;
+   font-family: verdana, sans-serif;
+   color: white;
+   font-size: 18px;
+
+ }
+
+ h1{
+   position: absolute;
+   top: 40vh;
+   left: 21.5vw;
+   font-family: verdana, sans-serif;
+   color: #421D64;
+   font-size: 25px;
+   z-index: 2;
+
+ }
+
+
+ .introPhoto{
+position: relative;
+   height: 150px;
+   width: 150px;
+   display: flex;
+   flex-direction: column;
+left: 620px;
+top: 15vh;
+   margin: 10px;
+z-index: 4;
+
+ }
+ h2{
+   font-family: verdana, sans-serif;
+   color: white;
+   font-size: 18px;
+   left: 5vw;
+
+ }
+ .albumCovers{
+position: fixed;
+left: 5%;
+   overflow: scroll;
+   height: 20vh;
+   width: 90vw;
+  z-index: 2;
+  top: 100px;
+
+ }
+ .results{
+   position: fixed;
+   height: 20vh;
+   width: 90vw;
+   border: 2px solid black;
+z-index: 3;
+   top: 300px;
+   left: 5%;
+ }
+
+ .playlist{
+top: 500px;
+position: relative;
+align-items: center;
+background-color: #353426;
+border-radius: 5px;
+width: 250px;
+height: 50px;
+z-index: 2;
+font-family: verdana, sans-serif;
+color: white;
+font-size: 18px;
+left:4%;
+
+ }
+
+.two{
+   line-height: 90px;
+   font-family: verdana, sans-serif;
+   color: white;
+   font-size: 18px;
+   text-align: 
+
+ }
